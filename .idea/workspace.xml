@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32575d95-8a81-4459-a7bc-b19216b22f79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lianxi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lianxi/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lianxi/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lianxi/SubClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lianxi/array/Demo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/lianxi/array/ThreeArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ConnectionDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ThreeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readme.text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readme.text" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.text" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/readme.text">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -168,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573693821240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573694013475" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -266,12 +247,12 @@
       <workItem from="1573287988022" duration="6000" />
       <workItem from="1573288007308" duration="159000" />
       <workItem from="1573289892976" duration="10000" />
-      <workItem from="1573693446482" duration="372000" />
+      <workItem from="1573693446482" duration="615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33386000" />
+    <option name="totallyTimeSpent" value="33629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -295,7 +276,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3120482" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.486747" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
       <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" />
@@ -383,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/readme.text">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
